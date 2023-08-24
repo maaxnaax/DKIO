@@ -5,7 +5,7 @@
 - 2023 Jun: DONE Sports statistics data pipeline configured
 - 2023 Aug: DONE MVP: Smart Contracts finalized
 
-- 2023 Sep: TODO MVP: FrontEnd finalized
+- 2023 Nov: TODO MVP: FrontEnd finalized
 
 - Q4 2023 TODO:
     - Finalise Tokenomics:  DKIO stakers receive protocol profits (Similar to veGMX)
