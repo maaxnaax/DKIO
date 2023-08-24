@@ -1,4 +1,4 @@
-# DKIO Roadmap
+# DraftKraft Roadmap
 
 - 2023 Apr:     Protocol vision and core established
 - 2023 Jun:     Gathered the team

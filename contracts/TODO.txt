@@ -1,0 +1,5 @@
+TODO:
+
+Make sure that player scores have been updated before people can claim DONE
+
+MAKE A FRONT END FIRST!
