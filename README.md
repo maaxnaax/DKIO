@@ -8,14 +8,21 @@
 - 2023 Sep: TODO MVP: FrontEnd finalized
 
 - Q4 2023 TODO:
-    - Finalise Tokenomics
+    - Finalise Tokenomics:  DKIO stakers receive protocol profits (Similar to veGMX)
     - Testnet early alpha V.0 launch
-    - ICO and liquidity pools on UniSwap
+    - Early private alpha Token Sale (DKIO)
     - Release spec front end
     - Audit Smart contracts
 
 - Q1 2024 TODO:
     - Launch V.1 on MainNet for Brazilian Market (Portuguese and English)
+    - Public ICO (DKIO)
 
 - Q2 2024 TODO:
     - Launch V.2 on MainNet for South American Market (Portuguese, Spanish and English)
+
+- Q3 2024 TODO:  
+    - Cover Soccer globally
+
+- Q1 2025 TODO:
+    - Extend to other sports
